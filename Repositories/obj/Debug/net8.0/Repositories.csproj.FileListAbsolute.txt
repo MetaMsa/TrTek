@@ -1,0 +1,16 @@
+D:\staj\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\staj\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\staj\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\staj\Repositories\bin\Debug\net8.0\Entities.dll
+D:\staj\Repositories\bin\Debug\net8.0\Entities.pdb
+D:\staj\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\staj\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\staj\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\staj\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\staj\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\staj\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+D:\staj\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\staj\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\staj\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\staj\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\staj\Repositories\obj\Debug\net8.0\ref\Repositories.dll

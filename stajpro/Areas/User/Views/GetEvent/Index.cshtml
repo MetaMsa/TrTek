@@ -1,0 +1,60 @@
+@model Event
+
+<div class="display-6 text-success text-center">
+    @Model.Name
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img src="@Model.Image" style="width: 30rem;">
+    </div>
+    <div class="col-md-9">
+        <p>
+        <div class="text-center my-3">
+            <i class="fa-solid fa-file-lines"></i>
+                @Model.shortDescription
+        </div>
+
+        <div class="text-center my-3">
+            <i class="fa-regular fa-file-lines"></i>
+                @Model.longDescription
+        </div>
+
+        <div class="text-center my-3">
+            <i class="fa-solid fa-user-plus"></i>
+                @Model.AddedBy
+        </div>
+
+        <div class="text-center my-3">
+            <i class="fa-solid fa-calendar-plus"></i>
+                @Model.AddedDate
+        </div>
+
+        <div class="text-center my-3">
+            <i class="fa-regular fa-calendar"></i>
+                @Model.FirstDate
+        </div>
+
+        <div class="text-center my-3">
+            <i class="fa-solid fa-clock"></i>
+                @Model.LastDate
+        </div>
+
+        <div class="text-center my-3">
+                @if (Model.isActive == true)
+                {
+                <i class="fa-solid fa-check"></i>
+                <span class="text-success">Aktif</span>
+                }
+                else
+                {
+                <i class="fa-solid fa-xmark"></i>
+                <span class="text-danger">Pasif</span>
+                }
+        </div>
+        </p>
+    </div>
+        <a href="@Url.Action("Register","Dashboard")" class="btn btn-primary">
+            <i class="fa-solid fa-user-plus"></i>
+            Katıl</a>
+</div>

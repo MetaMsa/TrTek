@@ -1,0 +1,50 @@
+@model EventListViewModel
+
+<div class="row">
+    <div class="col-md-3">
+        <div class="row my-3">
+            @foreach (var evn in Model.Events)
+            {
+                <div class="card my-3">
+                    <div class="card-header text-center">
+                        <h5 class="card-title">@evn.Name</h5>
+                    </div>
+
+                    <div class="card-text">
+                        <div class="text-danger text-center lead p-2 rounded-2">
+                            <i class="fa-solid fa-file-lines"></i> @evn.shortDescription
+                        </div>
+                    </div>
+
+                    <div class="card-body">
+                        <div class="card-text">
+                            <i class="fa-solid fa-clock"></i>
+                            @evn.LastDate
+                        </div>
+                        <div class="card-text">
+                            @if (evn.isActive == true)
+                            {
+                                <i class="fa-solid fa-check"></i>
+                                <span class="text-success">Aktif</span>
+                            }
+                            else
+                            {
+                                <i class="fa-solid fa-xmark"></i>
+                                <span class="text-danger">Pasif</span>
+                            }
+                        </div>
+                        <a href="@Url.Action("Get","GetEvent", new { id = evn.Id })"
+                            class="btn btn-outline-secondary rounded-2">
+                            <i class="fa-solid fa-arrow-right"></i>
+                            Detaylar
+                        </a>
+                        <a class="btn btn-primary" href="@Url.Action("Register","Dashboard")">
+                            <i class="fa-solid fa-user-plus"></i>
+                            Katıl
+                        </a>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

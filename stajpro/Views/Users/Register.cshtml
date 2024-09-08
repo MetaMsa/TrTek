@@ -1,0 +1,56 @@
+@model RegisterDto
+
+<div class="text-center my-5">
+    <h6 class="display-6">
+        Kayıt
+    </h6>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+
+    </div>
+
+    <div class="col-md-6 text-center">
+        <div class="text-danger" asp-validation-summary="All"></div>
+
+        <form method="post" asp-action="Register">
+            <div class="form-group my-3">
+                <label asp-for="userName">Ad</label><br>
+                <input type="text" asp-for="userName">
+            </div>
+
+            <div class="form-group my-3">
+                <label asp-for="userSurname">Soyad</label><br>
+                <input type="text" asp-for="userSurname">
+            </div>
+
+            <div class="form-group my-3">
+                <label asp-for="userEmail">E-Posta</label><br>
+                <input type="email" asp-for="userEmail">
+            </div>
+
+            <div class="form-group my-3">
+                <label asp-for="userPassword">Şifre</label><br>
+                <input type="password" asp-for="userPassword">
+            </div>
+
+            <div class="form-group my-3">
+                <label asp-for="userBirthDate">Doğum Tarihi</label><br>
+                <input type="Date" asp-for="userBirthDate">
+            </div>
+
+            <button type="submit" class="btn btn-primary">Kayıt Ol</button>
+        </form>
+
+        <div class="my-3">
+            <a class="btn btn-danger" asp-controller="Users" asp-action="Index">
+            <i class="fa-solid fa-right-to-bracket"></i>
+            Giriş Yap</a>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+
+    </div>
+</div>
