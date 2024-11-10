@@ -12,7 +12,7 @@ using Repositories;
 namespace stajpro.Migrations
 {
     [DbContext(typeof(RepositoryContext))]
-    [Migration("20240827105017_init")]
+    [Migration("20241110192221_init")]
     partial class init
     {
         /// <inheritdoc />

@@ -19,7 +19,7 @@ namespace stajpro.Areas.User.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return View(new EventListViewModel(_manager));
         }
 
         public IActionResult Register()

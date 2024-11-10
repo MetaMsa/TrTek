@@ -3,7 +3,7 @@
 <div class="text-center my-5">
     <h6 class="display-6">
         Giriş
-        @if (Model.isUserCreated == true)
+        @if (Model != null && Model.isUserCreated == true)
         {
             <div class="text-success">
                 Kullanıcı Oluşturuldu
