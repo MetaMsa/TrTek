@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\mserh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mserh\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

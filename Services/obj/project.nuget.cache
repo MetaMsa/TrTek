@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tNjYQVnDzik=",
+  "dgSpecHash": "bWeE3pWtXP4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Services\\Services.csproj",
+  "projectFilePath": "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mserh\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\mserh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

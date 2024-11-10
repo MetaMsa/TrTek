@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Presentation\\Presentation.csproj": {}
+    "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Presentation\\Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Entities\\Entities.csproj": {
+    "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\mserh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mserh\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,18 +58,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Presentation\\Presentation.csproj": {
+    "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Presentation\\Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Presentation\\Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Presentation\\Presentation.csproj",
         "projectName": "Presentation",
-        "projectPath": "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Presentation\\Presentation.csproj",
+        "projectPath": "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Presentation\\Presentation.csproj",
         "packagesPath": "C:\\Users\\mserh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Presentation\\obj\\",
+        "outputPath": "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mserh\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -84,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Services\\Services.csproj"
+              "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Services\\Services.csproj"
               }
             }
           }
@@ -126,18 +126,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Repositories\\Repositories.csproj",
+        "projectPath": "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\mserh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Repositories\\obj\\",
+        "outputPath": "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mserh\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -152,8 +152,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Entities\\Entities.csproj"
+              "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Entities\\Entities.csproj"
               }
             }
           }
@@ -202,18 +202,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Services\\Services.csproj": {
+    "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\mserh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Services\\obj\\",
+        "outputPath": "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mserh\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -228,11 +228,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Entities\\Entities.csproj"
+              "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Repositories\\Repositories.csproj": {
-                "projectPath": "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Repositories\\Repositories.csproj"
+              "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -277,7 +277,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

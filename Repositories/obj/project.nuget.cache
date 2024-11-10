@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0kum7J/zXxs=",
+  "dgSpecHash": "i9qGxf4xy54=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mserh\\Downloads\\bitirme-projesi-main\\bitirme-projesi-main\\Repositories\\Repositories.csproj",
+  "projectFilePath": "C:\\Users\\mserh\\OneDrive\\Desktop\\TrTek\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mserh\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\mserh\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
