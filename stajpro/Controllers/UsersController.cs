@@ -1,5 +1,4 @@
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Authentication;
 using Services.Contracts;
 using Entities.Models;
 using stajpro.Models;

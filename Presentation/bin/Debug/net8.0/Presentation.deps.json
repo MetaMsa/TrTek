@@ -1017,7 +1017,7 @@
       "Entities/1.0.0": {
         "runtime": {
           "Entities.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1031,7 +1031,7 @@
         },
         "runtime": {
           "Repositories.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1045,7 +1045,7 @@
         },
         "runtime": {
           "Services.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

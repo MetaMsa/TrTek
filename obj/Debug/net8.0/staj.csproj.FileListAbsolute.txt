@@ -166,3 +166,11 @@ D:\staj\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\staj\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 D:\staj\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 D:\staj\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\mserh\OneDrive\Desktop\TrTek\obj\Debug\net8.0\staj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mserh\OneDrive\Desktop\TrTek\obj\Debug\net8.0\staj.AssemblyInfoInputs.cache
+C:\Users\mserh\OneDrive\Desktop\TrTek\obj\Debug\net8.0\staj.AssemblyInfo.cs
+C:\Users\mserh\OneDrive\Desktop\TrTek\obj\Debug\net8.0\staj.csproj.CoreCompileInputs.cache
+C:\Users\mserh\OneDrive\Desktop\TrTek\obj\Debug\net8.0\staj.sourcelink.json
+C:\Users\mserh\OneDrive\Desktop\TrTek\obj\Debug\net8.0\staj.dll
+C:\Users\mserh\OneDrive\Desktop\TrTek\obj\Debug\net8.0\refint\staj.dll
+C:\Users\mserh\OneDrive\Desktop\TrTek\obj\Debug\net8.0\staj.pdb
